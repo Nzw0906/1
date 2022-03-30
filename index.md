@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+If you are a foreign friend, you can check it[ English website](https://nzw0906.github.io/0/)
 
-You can use the [editor on GitHub](https://github.com/Nzw0906/1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 欢迎光临
+这里是哈佛中学的官方网站
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+你可以在这里了解哈佛中学
+## 首先
+我们有一套完整的流程和系统
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+就像我们的官方网站一样
+## 其次
+我们有自己严格的规则
+## 接下来
+我将展示我们学校的规章制度
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+请访问下方的文件来查阅
+[规(文档).docx](https://github.com/Nzw0906/0/files/8378560/default.docx) 或者 [规（网页）](https://stmarysstclairorg-my.sharepoint.com/:w:/g/personal/qe2113_office-365_works/ESD1dGP-g-RLkwoYZIsGSb0B1LaMjfcf8O9QaZqLp0viFA?e=lRhpgk)
+## 最后
+让我给你看一些照片
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+![f3511f25db75eb64906605b1437aad6](https://user-images.githubusercontent.com/91320006/160787993-106df689-4e48-4f4d-a4db-ec489f1c36fa.png)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Nzw0906/1/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+![feced1df3f9b7b8ad39fbbb8b322a68](https://user-images.githubusercontent.com/91320006/160788022-a30d59af-7b9a-4f9c-ad2e-f9c9db1818c1.png)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+
+感谢您访问本网站，我们期待你的下次光临
