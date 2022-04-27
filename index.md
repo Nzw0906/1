@@ -48,4 +48,4 @@ If you are a foreign friend, you can check it [English website](https://nzw0906.
 
 
 
-感谢您访问本网站，我们期待你的下次光临
+感谢您访问本网站，我们期待你的下次[光临](https://nzw0906.github.io/2/)
