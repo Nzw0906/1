@@ -34,6 +34,9 @@ If you are a foreign friend, you can check it [English website](https://nzw0906.
 ![f3511f25db75eb64906605b1437aad6](https://user-images.githubusercontent.com/91320006/160787993-106df689-4e48-4f4d-a4db-ec489f1c36fa.png)
 ![capture_20220614202758354](https://user-images.githubusercontent.com/91320006/175759109-2bb1b29c-d286-4337-bfc3-38f68910ee51.jpg)
 
+## 其他
+
+1.[英语知识清单](https://nzw0906.github.io/6/)
 
 
 
