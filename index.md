@@ -36,8 +36,11 @@ If you are a foreign friend, you can check it [English website](https://nzw0906.
 
 ## 其他
 
+
 1.[英语知识清单](https://nzw0906.github.io/6/)
 
+
+.....
 
 
 感谢您访问本网站，我们期待你的下次[光临](https://nzw0906.github.io/4/)
